@@ -1,2 +1,2 @@
 # 0Main_openSAP_repo
-Main repository for GIT hub web IDE demo
+Main repository for [open SAP](https://open.sap.com) GIT hub web IDE demo
